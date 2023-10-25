@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Tarea PIA01</h1>
+  <img src="paper.png" alt="paper" width="80" height="80">
 </div>
-<img src="images/paper.png" alt="paper" width="80" height="80">
 <div>
   <p><b>La tarea consiste en los siguientes pasos:</b></p>
   <ol>
